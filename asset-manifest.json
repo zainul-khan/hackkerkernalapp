@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hackkerkernalapp/static/css/main.31d6cfe0.css",
+    "main.js": "/hackkerkernalapp/static/js/main.d6062123.js",
+    "static/js/787.ec85214d.chunk.js": "/hackkerkernalapp/static/js/787.ec85214d.chunk.js",
+    "index.html": "/hackkerkernalapp/index.html",
+    "main.d6062123.js.map": "/hackkerkernalapp/static/js/main.d6062123.js.map",
+    "787.ec85214d.chunk.js.map": "/hackkerkernalapp/static/js/787.ec85214d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d6062123.js"
+  ]
+}
